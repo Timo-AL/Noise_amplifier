@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "NCV8579BMN")(type "Legacy")(uri "${KIPRJMOD}/NCV8579BMN.lib")(options "")(descr ""))
+)

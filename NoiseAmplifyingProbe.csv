@@ -1,0 +1,29 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description
+"C1, ",1,10uf,C_Polarized,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm,
+"C2, C3, C11, ",3,220uf,C_Polarized,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,
+"C4, C5, C6, C7, C8, C10, ",6,100nf,C,Capacitor_SMD:C_0603_1608Metric,
+"C9, ",1,100nF,C,Capacitor_SMD:C_0603_1608Metric,
+"C12, ",1,1uf,C,Capacitor_SMD:C_0603_1608Metric,
+"C13, ",1,4.7uF,C,Capacitor_SMD:C_0805_2012Metric,
+"C14, C15, C16, C19, ",4,2.2uF,C,Capacitor_SMD:C_0603_1608Metric,
+"C17, C18, ",2,104,C_Feedthrough,FP:C_Feed_0805_2012Metric,
+"C20, C21, ",2,100uf,C_Polarized,Capacitor_SMD:C_1210_3225Metric,
+"D1, ",1,LED,LED,LED_SMD:LED_0805_2012Metric,
+"J1, ",1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_USB2.0,Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11,
+"J2, ",1,B0505S-1WR,power modular,FP:5V1W,
+"J3, J4, ",2,BNC,Conn_Coaxial,Connector_Coaxial:SMA_Amphenol_901-143_Horizontal,
+"R1, ",1,0,R,Resistor_SMD:R_0603_1608Metric,
+"R2, ",1,200k,R,Resistor_SMD:R_0603_1608Metric,Thin Film/±¡Ä¤µç×è
+"R3, R5, ",2,5.1k,R,Resistor_SMD:R_0603_1608Metric,
+"R4, R8, R12, ",3,2.1k,R,Resistor_SMD:R_0603_1608Metric,Thin Film/±¡Ä¤µç×è
+"R6, R10, R13, ",3,18.7k,R,Resistor_SMD:R_0603_1608Metric,Thin Film/±¡Ä¤µç×è
+"R7, R11, ",2,51k,R,Resistor_SMD:R_0603_1608Metric,Thin Film/±¡Ä¤µç×è
+"R9, ",1,200,R,Resistor_SMD:R_0603_1608Metric,
+"R14, R15, ",2,51K,R,Resistor_SMD:R_0603_1608Metric,
+"R16, ",1,78.7k,R,Resistor_SMD:R_0603_1608Metric,
+"R17, ",1,75K,R,Resistor_SMD:R_0603_1608Metric,
+"U1, ",1,ADA4522-2,NE5532,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,
+"U2, ",1,NCV8570BMN300R2G,NCV8570BMN300R2G,FP:NCV8570BMN300R2G,
+"U3, ",1,LME49710,TL071,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,
+"U4, ",1,LM27762,LM27762,Package_SON:WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias,
+"TP1, TP2",2,probe,probe,TestPoint:TestPoint_Pad_1.5x1.5mm,R50-2S/»ªÈÙº¸ÏßÕëÌ×
